@@ -65,23 +65,23 @@ document.querySelectorAll(".item-detail-button").forEach((button, index) => {
 
     // Data produk
     const productData = [
-      {
+       {
         image: "img/products/bestseller-1.JPG",
         title: "Kue Ulang Tahun",
         description:
           "ukuran 20cm + tulisan + lilin kecil  (note : toping buah menyesuaikan stock buah yg ada).",
-        price: "IDR 120K",
+        price: "IDR 120K (harga menyesuaikan ukuran)",
         stars: 5,
       },
       {
         image: "img/products/bestseller-2.JPG",
         title: "Cromboloni",
         description: "varian rasa coklat, macha, dan vanila + topping.",
-        price: "IDR 15K",
+        price: "IDR 15K/pcs",
         stars: 5,
       },
-      {
-        image: "img/products/bestseller-3.JPG",
+       {
+        image: "img/products/bestseller-3.PNG",
         title: "Donat Manis",
         description:
           "varian rasa vanila, coklat, greentea, tiramisu, stroberi, taro + topping.",
